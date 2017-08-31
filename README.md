@@ -12,3 +12,6 @@ Members :
 
 > SAMSON, Jethro
 
+Revisions:
+
+> "Online Garage Sale" changed to "PUP Student Market" 
