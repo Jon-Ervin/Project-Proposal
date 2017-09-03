@@ -9,7 +9,7 @@ Members :
 	BALMACEDA, Jon Ervin B.
 	DORONILA, John Carlo S.
 	ORETA, Vince Miguel
-	SAMSON, Jethro
+	SAMSON, Jethro Jhay
 
 Revisions:
 
@@ -33,6 +33,45 @@ Sales and Inventory - Sari-sari Store  changed to Grocery Store Sales and Invent
 > Revision Highlights:
 
 	* Client Business changed from Sari-sari Store to Grocery Store.
+
+Added PUP Interactive + Removed City Park Finder and MyFam
+
+Revision Highlights:
+	
+	* An interactive website between students and professors of a particular class that will contain school related 
+	  discussions and activities. It will also have features that will benefit both parties. It will only cover 
+	  Polytechnic University of the Philippines college students and professors.
+
+	* The program will have the following features:
+
+	** Students:
+	> Create/Join/Leave a Section. 
+		- section will be used for communication among students of the same class
+	> Add/Remove Subjects made by professors.
+		* Subjects:
+		> Subject Details
+		> Professor's Post + Comments
+		> Upcoming Activities
+		> Student's Statistics(Attendance, Scores, Grade)
+		> Create/Join/Leave Group(Communication on group activities)
+	> Message Professor, Classmate
+	> View profiles
+		- contains student/professor information + subjects
+
+	** Professors:
+	> Create/Delete Subjects - divided into sections
+		* Subjects:
+		> Create/Delete a post
+		> Display Upcoming Activities
+		> Maintain Student's Statistics
+		> Display Student's Statistics
+		> Remove unwanted students of a subject
+	> Message Student
+	> View profiles
+		- contains student/professor information + subjects
+		
+
+
 
 
 	
