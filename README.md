@@ -36,7 +36,7 @@ Sales and Inventory - Sari-sari Store  changed to Grocery Store Sales and Invent
 
 Added PUP Interactive + Removed City Park Finder and MyFam
 
-Revision Highlights:
+> Revision Highlights:
 	
 	* An interactive website between students and professors of a particular class that will contain school related 
 	  discussions and activities. It will also have features that will benefit both parties. It will only cover 
